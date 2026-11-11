@@ -1,8 +1,8 @@
 cask "fener" do
   version "0.1.0"
-  sha256 "413fa0c7f84d712325267f4a0af32830a4751ee6127bb59789799147b795e1dc"
+  sha256 "dd49cd54259b2972b90ae2274e8c7f9bb9d58cd72a846ccbb0eb695eaa2c475f"
 
-  url "https://github.com/omerdikyol/fener/releases/download/v#{version}/fener-#{version}.zip"
+  url "https://github.com/omerdikyol/fener/releases/download/v#{version}/fener-#{version}.dmg"
   name "fener"
   desc "Keyboard launcher configured in plain text"
   homepage "https://fener.omerdikyol.com/"
