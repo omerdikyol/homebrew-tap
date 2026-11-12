@@ -1,6 +1,6 @@
 cask "fener" do
-  version "0.1.0"
-  sha256 "dd49cd54259b2972b90ae2274e8c7f9bb9d58cd72a846ccbb0eb695eaa2c475f"
+  version "0.2.0"
+  sha256 "79513a7b74ffdf0ed4604cd8d77e792a17197830a58f71b26ab3acabdce96185"
 
   url "https://github.com/omerdikyol/fener/releases/download/v#{version}/fener-#{version}.dmg"
   name "fener"
